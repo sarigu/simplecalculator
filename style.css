@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+
+#calculator{
+    background-color: lightpink; 
+    padding:1em; 
+    padding-top: 2em; 
+    padding-bottom: 2em; 
+    width: 240px; 
+    margin-left: 35vw; 
+}
+
+#display{
+    background-color: white; 
+    padding-bottom: .5em;
+    margin-bottom: 1em; 
+    height:2em;  
+    width:235px; 
+}
+
+input[type=submit]{
+    font-size: 20px;
+    margin: 4px 2px;
+    width:2.01em;
+}
+
+h1{
+    color: rgb(109,160,133);
+    font-size: 1.9em;  
+    font-family: 'Bungee Shade', cursive;
+    padding-bottom:1em; 
+    padding-top:1em; 
+    margin-left: 25vw; 
+}
